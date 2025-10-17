@@ -1,0 +1,11 @@
+C:\Users\lotus\source\repos\ketabkhanesadewindosform\ketabkhanesadewindosform\bin\Debug\ketabkhanesadewindosform.exe.config
+C:\Users\lotus\source\repos\ketabkhanesadewindosform\ketabkhanesadewindosform\bin\Debug\ketabkhanesadewindosform.exe
+C:\Users\lotus\source\repos\ketabkhanesadewindosform\ketabkhanesadewindosform\bin\Debug\ketabkhanesadewindosform.pdb
+C:\Users\lotus\source\repos\ketabkhanesadewindosform\ketabkhanesadewindosform\obj\Debug\ketabkhanesadewindosform.csproj.AssemblyReference.cache
+C:\Users\lotus\source\repos\ketabkhanesadewindosform\ketabkhanesadewindosform\obj\Debug\ketabkhanesadewindosform.csproj.SuggestedBindingRedirects.cache
+C:\Users\lotus\source\repos\ketabkhanesadewindosform\ketabkhanesadewindosform\obj\Debug\ketabkhanesadewindosform.Form1.resources
+C:\Users\lotus\source\repos\ketabkhanesadewindosform\ketabkhanesadewindosform\obj\Debug\ketabkhanesadewindosform.Properties.Resources.resources
+C:\Users\lotus\source\repos\ketabkhanesadewindosform\ketabkhanesadewindosform\obj\Debug\ketabkhanesadewindosform.csproj.GenerateResource.cache
+C:\Users\lotus\source\repos\ketabkhanesadewindosform\ketabkhanesadewindosform\obj\Debug\ketabkhanesadewindosform.csproj.CoreCompileInputs.cache
+C:\Users\lotus\source\repos\ketabkhanesadewindosform\ketabkhanesadewindosform\obj\Debug\ketabkhanesadewindosform.exe
+C:\Users\lotus\source\repos\ketabkhanesadewindosform\ketabkhanesadewindosform\obj\Debug\ketabkhanesadewindosform.pdb
